@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1708555114 source:f:\iti\oop\finalfinalproject\main.cpp
+	<iostream>
+	<iostream>
+	"WaitingQueue.h"
+	"Bank.h"
+
+1708555114 f:\iti\oop\finalfinalproject\include\waitingqueue.h
+	<iostream>
+	"Node.h"
+
+1708555114 f:\iti\oop\finalfinalproject\include\node.h
+
+1708555114 f:\iti\oop\finalfinalproject\include\bank.h
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+	<windows.h>
+
+1708555114 f:\iti\oop\finalfinalproject\include\customer.h
+	<string>
+
